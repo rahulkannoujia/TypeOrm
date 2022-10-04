@@ -1,0 +1,9 @@
+// module.exports={
+//     "type":"mysql",
+//     "host":"localhost",
+//     "port":3000,
+//     "username":"root",
+//     "password":"Rahul@123",
+//     "database":"Employees",
+//     "synchronize":true
+// }
